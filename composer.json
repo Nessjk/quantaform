@@ -36,7 +36,10 @@
     "php": ">=5.6"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^3.0.2"
+    "squizlabs/php_codesniffer": "^3.0.2",
+    "wpackagist-plugin/akismet":"dev-trunk",
+    "wpackagist-plugin/wordpress-seo":">=7.0.2",
+    "wpackagist-theme/hueman":"*"
   },
   "extra": {
     "installer-paths": {
